@@ -186,7 +186,7 @@ $result=mysqli_query($conn,$sql);
 			</div>
 		</div>
 
-		<!-- Copyright -->
+		
 		<footer >
 		<div style="width:100%;">
 			<div style="float:left;">
